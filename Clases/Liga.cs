@@ -18,7 +18,10 @@ class Liga {
         get { return this.equiposDeLiga; }
         set { this.equiposDeLiga = value; }
     }
-    
+    /*
+    public string nombre;
+    public string Nombre { get => nombre; set => nombre = value; }
+    */
     
     public Liga (string nombre,int id){
         this.nombre=nombre;
