@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arteN01-039/Documents/AndresAngarita C#/clase08-03/DemoClases/DemoClases.csproj",
+      "projectUniqueName": "/home/arteN01-039/Desktop/DemoClases/DemoClases.csproj",
       "projectName": "DemoClases",
-      "projectPath": "/home/arteN01-039/Documents/AndresAngarita C#/clase08-03/DemoClases/DemoClases.csproj",
+      "projectPath": "/home/arteN01-039/Desktop/DemoClases/DemoClases.csproj",
       "packagesPath": "/home/arteN01-039/.nuget/packages/",
-      "outputPath": "/home/arteN01-039/Documents/AndresAngarita C#/clase08-03/DemoClases/obj/",
+      "outputPath": "/home/arteN01-039/Desktop/DemoClases/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/arteN01-039/.nuget/NuGet/NuGet.Config"

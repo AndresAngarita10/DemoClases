@@ -52,6 +52,7 @@ internal class Program
                 case 4:
                     break;
                 default:
+                    Console.WriteLine("Invalid");
                     break;
             }
         } while (opcion != 4);
