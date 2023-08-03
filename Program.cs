@@ -31,6 +31,7 @@ internal class Program
                                 opcionliga.EquiposDeLiga.Add(nuevoequipo);
                                 break;
                             default:
+                                Console.WriteLine("Invalid");
                                 break;
                         }
                     } while (opcionPlantel != 6);
